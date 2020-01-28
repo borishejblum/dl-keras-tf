@@ -82,7 +82,7 @@ Go ahead and take a look at your data frame
 training_files
 ```
 
-__Step 2__: How many obseravations are in each response label (i.e. "neg" vs "pos")?
+__Step 2__: How many observations are in each response label (i.e. "neg" vs "pos")?
 
 ```{r}
 count(training_files, _____)
